@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Everlasting BEATS",
+  "base_artist": "トウカイテイオー (CV. Machico)、ウオッカ (CV. 大橋彩香)、シンボリルドルフ (CV. 田所あずさ)、ツルマルツヨシ (CV. 青山吉能)、タニノギムレット (CV. 松岡美里)",
+  "createdAt": "2025-12-06T03:46:26.560559Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Everlasting BEATS (Game Size)",
+      "artist": "トウカイテイオー (CV. Machico)",
+      "has_synced": true,
+      "path": "select/01_Everlasting_BEATS_(Game_Size)_トウカイテイオー_(CV._Machico).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Everlasting Beats",
+      "artist": "トウカイテイオー (CV. Machico)",
+      "has_synced": true,
+      "path": "select/02_Everlasting_Beats_トウカイテイオー_(CV._Machico).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Everlasting BEATS",
+      "artist": "トウカイテイオー(Machico),ウオッカ(大橋彩香),シンボリルドルフ(田所あずさ),ツルマルツヨシ(青山吉能),タニノギムレット(松岡美里)",
+      "has_synced": false,
+      "path": "select/pl_01_Everlasting_BEATS_トウカイテイオー(Machico),ウオッカ(大橋彩香),シンボリルドルフ(田所あずさ),ツルマルツヨシ(青山吉能),タニノギムレット(松岡美里).txt"
+    }
+  ]
+}
